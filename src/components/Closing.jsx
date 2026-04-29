@@ -242,13 +242,15 @@ export default function Closing() {
         </p>
         <h3
           style={{
-            fontFamily: "'Great Vibes', cursive",
-            color: "#2A161A",
-            fontSize: 42,
+            fontFamily: "'Cormorant Garamond', serif",
+            fontStyle: "italic",
+            fontWeight: 400,
+            color: "#8B3A3A",
+            fontSize: 32,
           }}
           className="text-center mb-6"
         >
-          Send your love ✨
+          Send a message for the couple!
         </h3>
 
         {/* Input form */}

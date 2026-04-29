@@ -20,7 +20,7 @@ const bridePinkSoft = "#E85D8E22";
 const bridePinkText = "#B83267";
 
 export default function TeamPicker() {
-  const [votes, setVotes] = useState({ bride: 847, groom: 623 });
+  const [votes, setVotes] = useState({ bride: 45, groom: 32 });
   const [chosen, setChosen] = useState(null);
   const [message, setMessage] = useState("");
 
@@ -135,7 +135,11 @@ export default function TeamPicker() {
           className="flex-1 py-5 rounded-2xl flex flex-col items-center gap-1 transition-all duration-300"
           style={{
             background:
-              chosen === "bride" ? bridePink : chosen ? bridePinkSoft : bridePink,
+              chosen === "bride"
+                ? bridePink
+                : chosen
+                  ? bridePinkSoft
+                  : bridePink,
             border: `1px solid ${bridePink}`,
             opacity: chosen && chosen !== "bride" ? 0.4 : 1,
             cursor: chosen ? "default" : "pointer",
@@ -289,7 +293,13 @@ export default function TeamPicker() {
         viewport={{ once: true }}
         transition={{ delay: 0.8, duration: 0.8 }}
         // UPDATED: Changed from a mustard-gold to a deep, elegant rose/burgundy to pop off the pink
-        style={{ fontFamily: "'Great Vibes', cursive", color: "#8B3A3A" }}
+        style={{
+          fontFamily: "'Cormorant Garamond', serif",
+          fontStyle: "italic",
+          fontWeight: 400,
+          color: "#8B3A3A",
+          fontSize: 32,
+        }}
         className="text-4xl mb-2"
       >
         We can't wait to celebrate with you!

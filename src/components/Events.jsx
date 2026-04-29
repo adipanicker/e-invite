@@ -66,7 +66,7 @@ const events = [
     date: "10th June 2026",
     time: "10:00 AM Onwards · Followed by Lunch",
     venue: "Gokulam Sabari Hall",
-    sublocation: "Guruvayur",
+    sublocation: "Guruvayur, Kerala",
     description:
       "Join us on stage to bless the couple, followed by a grand lunch 🍽️",
     dressCode: "Men — Mundu & Shirt · Women — Saree",
