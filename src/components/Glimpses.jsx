@@ -122,7 +122,7 @@ export default function Glimpses() {
                 fontSize: 12,
               }}
             >
-              ✦ See the Glimpses ✦
+              ✦ Tap to see Glimpses ✦
             </span>
           </motion.button>
         ) : (
