@@ -219,7 +219,7 @@ export default function Closing() {
           letterSpacing: "0.15em",
         }}
       >
-        📅 Add to Calendar
+        📌 Add to Calendar
       </motion.button>
 
       {/* Wishes Wall */}
