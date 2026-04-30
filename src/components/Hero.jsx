@@ -29,7 +29,7 @@ export default function Hero() {
         style={{
           position: "absolute",
           inset: 0,
-          backgroundImage: "url('/couple12.jpg')",
+          backgroundImage: "url('/couplePic.jpg')",
           backgroundSize: "cover",
           // You might want to reset this closer to "center center" now that the text is moved!
           backgroundPosition: "center 20%",
@@ -73,7 +73,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           style={{
             fontFamily: "'Cinzel', serif",
-            color: "#FAF3E0BB",
+            color: "#997c2c",
             letterSpacing: "0.25em",
           }}
           className="text-xs md:text-sm uppercase text-center px-4 mb-4 drop-shadow-md"
