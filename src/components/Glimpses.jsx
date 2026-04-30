@@ -4,12 +4,19 @@ import { motion, AnimatePresence } from "framer-motion";
 const photos = [
   { src: "/1.jpg", alt: "Engagement 1" },
   { src: "/2.jpg", alt: "Engagement 2" },
-  { src: "/3.jpg", alt: "Engagement 3" },
+  { src: "/3.JPG", alt: "Engagement 3" },
   { src: "/4.jpg", alt: "Engagement 4" },
   { src: "/5.jpg", alt: "Engagement 5" },
   { src: "/6.jpg", alt: "Engagement 6" },
   { src: "/7.jpg", alt: "Engagement 7" },
   { src: "/8.jpg", alt: "Engagement 8" },
+  { src: "/9.JPG", alt: "Engagement 9" },
+  { src: "/10.jpg", alt: "Engagement 10" },
+  { src: "/11.jpg", alt: "Engagement 11" },
+  { src: "/12.jpg", alt: "Engagement 12" },
+  { src: "/13.jpg", alt: "Engagement 13" },
+  { src: "/14.jpg", alt: "Engagement 14" },
+  { src: "/15.jpg", alt: "Engagement 15" },
 ];
 
 export default function Glimpses() {
