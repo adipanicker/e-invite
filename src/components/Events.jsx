@@ -10,8 +10,8 @@ const events = [
     time: "5:00 PM Onwards",
     venue: "Adat, Thrissur",
     sublocation: "At the family home",
-    description: "An evening of intricate art, good music & better company 🎶",
-    dressCode: "Dress in shades of Green — the more the merrier!",
+    description: "Mehendi, music and mingling - let's begin!",
+    dressCode: "Dress in shades of Green — Fresh & festive",
     photo: "/mehendi.jpeg",
     overlay:
       "linear-gradient(to bottom, rgba(60,80,40,0.3) 0%, rgba(30,50,20,0.82) 100%)",
@@ -29,8 +29,8 @@ const events = [
     time: "10:00 AM Onwards",
     venue: "Adat, Thrissur",
     sublocation: "At the family home",
-    description: "Come bless the couple with turmeric, laughter, and love",
-    dressCode: "Dress in Yellow & Sunshine!",
+    description: "Come ready to get messy, laugh loud & glow brighter!",
+    dressCode: "Vintage yellow - No prints, keep it minimal",
     photo: "/haldi.jpeg",
     overlay:
       "linear-gradient(to bottom, rgba(180,100,0,0.3) 0%, rgba(120,60,0,0.75) 100%)",
@@ -48,7 +48,7 @@ const events = [
     time: "Muhurtam 7:30 AM – 8:30 AM",
     venue: "Guruvayur Temple",
     sublocation: "Guruvayur, Kerala",
-    description: "The sacred union. The moment we've all been waiting for 🙏",
+    description: "The sacred union - the moment we've been waiting for!",
     dressCode: null,
     photo: "/guruvayur.jpeg",
     overlay:
@@ -67,8 +67,7 @@ const events = [
     time: "10:00 AM Onwards · Followed by Lunch",
     venue: "Gokulam Sabari Hall",
     sublocation: "Guruvayur, Kerala",
-    description:
-      "Join us on stage to bless the couple, followed by a grand lunch 🍽️",
+    description: "Tradition & celebration - ending in a grand sadhya!",
     dressCode: "Men — Mundu & Shirt · Women — Saree",
     photo: "/reception1.jpg",
     overlay:
@@ -86,9 +85,9 @@ const events = [
     date: "10th June 2026",
     time: "6:00 PM Onwards",
     venue: "Deja Blu",
-    sublocation: "Snehatheeram, Thrissur",
-    description: "Golden hour vibes, great music & memories forever 🌅",
-    dressCode: "Indo Western outfits - Dress to impress!",
+    sublocation: "Vadanappally, Thrissur",
+    description: "Sunset vows to starlit dancefloor - glam & groove await!",
+    dressCode: "Indo Western glam - Dress to impress!",
     photo: "/dejablu.jpeg",
     overlay:
       "linear-gradient(to bottom, rgba(150,80,0,0.2) 0%, rgba(80,30,0,0.82) 100%)",

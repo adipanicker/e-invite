@@ -11,7 +11,7 @@ export default function EnvelopeIntro({ onComplete }) {
     setTimeout(() => {
       setGone(true);
       onComplete();
-    }, 2800);
+    }, 3000);
   };
 
   return (
@@ -254,7 +254,6 @@ export default function EnvelopeIntro({ onComplete }) {
               />
             </motion.div>
 
-            {/* ④ ENVELOPE FLAP */}
             {/* ④ ENVELOPE FLAP */}
             <motion.div
               initial={{ rotateX: 0 }}

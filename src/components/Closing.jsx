@@ -157,9 +157,9 @@ export default function Closing() {
           }}
           className="mb-6 italic"
         >
-          "From our families to yours — thank you for being part of our story.
-          Your presence means the world to us. Come, celebrate, and let's make
-          memories that last a lifetime."
+          We’re tying our hearts together and would love for you to be there.
+          Come celebrate these special moments with us and create memories we’ll
+          cherish forever.
         </motion.p>
 
         <motion.div

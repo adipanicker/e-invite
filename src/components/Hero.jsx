@@ -73,7 +73,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           style={{
             fontFamily: "'Cinzel', serif",
-            color: "#C9A84C",
+            color: "#f5eace",
             letterSpacing: "0.25em",
           }}
           className="text-xs md:text-sm uppercase text-center px-4 mb-4 drop-shadow-md"
