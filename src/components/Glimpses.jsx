@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const photos = [
   { src: "/1.jpg", alt: "Engagement 1" },
   { src: "/2.jpg", alt: "Engagement 2" },
-  { src: "/3.JPG", alt: "Engagement 3" },
+  { src: "/3.jpg", alt: "Engagement 3" },
   { src: "/4.jpg", alt: "Engagement 4" },
   { src: "/5.jpg", alt: "Engagement 5" },
   { src: "/6.jpg", alt: "Engagement 6" },
