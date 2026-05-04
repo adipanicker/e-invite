@@ -81,7 +81,7 @@ const events = [
     id: 5,
     name: "Sangeet",
     tagline: "Sunsets & Shenanigans",
-    emoji: "🎉",
+    emoji: "💃",
     date: "10th June 2026",
     time: "6:00 PM Onwards",
     venue: "Deja Blu",

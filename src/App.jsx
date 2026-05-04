@@ -6,12 +6,14 @@ import Glimpses from "./components/Glimpses";
 import Events from "./components/Events";
 import Closing from "./components/Closing";
 import { motion } from "framer-motion";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   const [introComplete, setIntroComplete] = useState(false);
 
   return (
     <main>
+      <Analytics />
       <EnvelopeIntro onComplete={() => setIntroComplete(true)} />
       {introComplete && (
         <motion.div

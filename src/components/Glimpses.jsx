@@ -7,6 +7,7 @@ const photos = [
   { src: "/3.jpg", alt: "Engagement 3" },
   { src: "/4.jpg", alt: "Engagement 4" },
   { src: "/51.jpg", alt: "Engagement 5" },
+  { src: "/67.jpeg", alt: "Engagement 67" },
   { src: "/6.jpg", alt: "Engagement 6" },
   { src: "/7.jpg", alt: "Engagement 7" },
   { src: "/8.jpg", alt: "Engagement 8" },
