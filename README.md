@@ -1,16 +1,41 @@
-# React + Vite
+# 💍 Athira & Shreerang — Digital Wedding Invitation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal project. A digital wedding invitation built for my sister's wedding on **June 10, 2026 in Guruvayur, Kerala.**
 
-Currently, two official plugins are available:
+**[View the Invitation →](https://e-invite-six.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Instead of a printed card, I built a web-based invitation — complete with event details, a live countdown, smooth animations, and a real-time wishes wall where guests could leave messages on the big day.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- 💫 Animated entrance with Framer Motion
+- ⏳ Live countdown to the wedding date
+- 📍 Venue and event details
+- 💬 Real-time wishes wall — guests can leave messages, powered by Firebase Firestore
+- 📱 Fully responsive — works on any device
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| Framework | React + Vite |
+| Styling | Tailwind CSS v4 |
+| Animations | Framer Motion |
+| Real-time DB | Firebase Firestore |
+| Deployment | Vercel |
+
+---
+
+## Author
+
+Built with love by **Aditya Panicker** for his sister Athira's wedding.
+
+[adityapanicker.com](https://adityapanicker.com) · [LinkedIn](https://linkedin.com/in/aditya-panicker)
